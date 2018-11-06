@@ -6,7 +6,7 @@
 * Add client-side routing to our React apps using React Router
 * Set up React Router to enable common browser behavior
 * Understand built in React Router components (Route, Router, Switch, Link, Redirect)
-
+   
 ## Overview
 Up to this point, our React applications have been limited in size, allowing us to use basic control flow in our components' render methods to determine what gets rendered to our users. However, as our React applications grow in size and scope, we need an easier and more robust way of rendering different components. Additionally, we will want the ability to set information in the url parameters to make it easier for users to identify where they are in the application.
 
